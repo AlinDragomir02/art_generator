@@ -29,9 +29,9 @@ var metadataList = [];
 var attributesList = [];
 var dnaList = new Set();
 const DNA_DELIMITER = "-";
-const HashlipsGiffer = require(`${basePath}/modules/HashlipsGiffer.js`);
+const ShadowadGiffer = require(`${basePath}/modules/ShadowadGiffer.js`);
 
-let hashlipsGiffer = null;
+let shadowadGiffer = null;
 
 const buildSetup = () => {
   if (fs.existsSync(buildDir)) {
@@ -139,35 +139,9 @@ const addMetadata = (_dna, _edition) => {
     date: dateTime,
     ...extraMetadata,
     attributes: attributesList,
-    compiler: "HashLips Art Engine",
+    compiler: "Shadowad Art Engine",
   };
-  if (network == NETWORK.sol) {
-    tempMetadata = {
-      //Added metadata for solana
-      name: tempMetadata.name,
-      symbol: solanaMetadata.symbol,
-      description: tempMetadata.description,
-      //Added metadata for solana
-      seller_fee_basis_points: solanaMetadata.seller_fee_basis_points,
-      image: `${_edition}.png`,
-      //Added metadata for solana
-      external_url: solanaMetadata.external_url,
-      edition: _edition,
-      ...extraMetadata,
-      attributes: tempMetadata.attributes,
-      properties: {
-        files: [
-          {
-            uri: `${_edition}.png`,
-            type: "image/png",
-          },
-        ],
-        category: "image",
-        creators: solanaMetadata.creators,
-      },
-    };
-  }
-  metadataList.push(tempMetadata);
+    metadataList.push(tempMetadata);
   attributesList = [];
 };
 
@@ -372,7 +346,7 @@ const startCreating = async () => {
           debugLogs ? console.log("Clearing canvas") : null;
           ctx.clearRect(0, 0, format.width, format.height);
           if (gif.export) {
-            hashlipsGiffer = new HashlipsGiffer(
+            shadowadGiffer = new ShadowadGiffer(
               canvas,
               ctx,
               `${buildDir}/gifs/${abstractedIndexes[0]}.gif`,
@@ -380,7 +354,7 @@ const startCreating = async () => {
               gif.quality,
               gif.delay
             );
-            hashlipsGiffer.start();
+            shadowadGiffer.start();
           }
           if (background.generate) {
             drawBackground();
@@ -392,11 +366,11 @@ const startCreating = async () => {
               layerConfigurations[layerConfigIndex].layersOrder.length
             );
             if (gif.export) {
-              hashlipsGiffer.add();
+              shadowadGiffer.add();
             }
           });
           if (gif.export) {
-            hashlipsGiffer.stop();
+            shadowadGiffer.stop();
           }
           debugLogs
             ? console.log("Editions left to create: ", abstractedIndexes)
