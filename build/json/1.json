@@ -1,0 +1,39 @@
+{
+  "name": "GME monkey collection #1",
+  "description": "1st collection of apes on GME sh",
+  "image": "ipfs://GmeRocket/1.png",
+  "dna": "a138c88781a551461fbe69785aaaf3a431fe413e",
+  "edition": 1,
+  "date": 1652895784533,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "gme_mountain"
+    },
+    {
+      "trait_type": "OriginalImage",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "MonkeyHairColor",
+      "value": "Green"
+    },
+    {
+      "trait_type": "BananaPeel",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "BananaColor",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "RocketBody",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "RocketWingsAndNose",
+      "value": "Yellow"
+    }
+  ],
+  "compiler": "Shadowad Art Engine"
+}

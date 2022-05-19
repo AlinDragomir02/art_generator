@@ -2,16 +2,16 @@ const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 
-const network = NETWORK.eth;
+const network = NETWORK.lrc;
 
 // General metadata for Loopring
-const namePrefix = "Bananas collection";
-const description = "Some description";
-const baseUri = "ipfs://NewUriToReplace";
+const namePrefix = "GME monkey collection";
+const description = "1st collection of apes on GME sh";
+const baseUri = "ipfs://GmeRocket";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 20,
     layersOrder: [
       { name: "Background" },
       { name: "OriginalImage" }, 
@@ -19,11 +19,11 @@ const layerConfigurations = [
       { name: "BananaPeel" },
       { name: "BananaColor" },
       // { name: "MonkeySkinColor" }, 
-      // { name: "RocketBody" }, 
+      { name: "RocketBody" }, 
       // { name: "RocketExhaust" }, 
       // { name: "RocketScrews" }, 
       // { name: "RocketTyres" }, 
-      // { name: "RocketWingsAndNose" },      
+      { name: "RocketWingsAndNose" },      
     ],
   },
 ];

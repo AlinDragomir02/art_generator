@@ -1,7 +1,7 @@
 const NETWORK = {
-  lrc: "lrc",  
-};
-
-module.exports = {
-  NETWORK,
-};
+    lrc: "lrc",  
+  };
+  
+  module.exports = {
+    NETWORK,
+  };

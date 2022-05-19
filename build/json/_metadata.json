@@ -1,0 +1,782 @@
+[
+  {
+    "name": "GME monkey collection #1",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/1.png",
+    "dna": "a138c88781a551461fbe69785aaaf3a431fe413e",
+    "edition": 1,
+    "date": 1652895784533,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Green"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #2",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/2.png",
+    "dna": "05305b26a1bf109744137f2da7270b473d124365",
+    "edition": 2,
+    "date": 1652895784692,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #3",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/3.png",
+    "dna": "4d64af307d03b791e3c24d196575ea0c9ea00139",
+    "edition": 3,
+    "date": 1652895784850,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #4",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/4.png",
+    "dna": "10280704ba2cac381fe29e71a80a4590a9454d96",
+    "edition": 4,
+    "date": 1652895785020,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Green"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #5",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/5.png",
+    "dna": "1cdfb39ad5f34589404e7f77001a078bcb34a749",
+    "edition": 5,
+    "date": 1652895785187,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Green"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #6",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/6.png",
+    "dna": "12a7ca61fd50a234f4cc3052a1ef5385852ab49b",
+    "edition": 6,
+    "date": 1652895785339,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #7",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/7.png",
+    "dna": "c144b5fa8102dcad6dbf0df22549f97649ab0ad3",
+    "edition": 7,
+    "date": 1652895785516,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #8",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/8.png",
+    "dna": "4405fbc3704ef5b9d206f6686d6ecc2bf91ce9c1",
+    "edition": 8,
+    "date": 1652895785718,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #9",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/9.png",
+    "dna": "701d08de3818678e4dbc8bfc35836c8b626fc429",
+    "edition": 9,
+    "date": 1652895785877,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #10",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/10.png",
+    "dna": "3075765dc81dae31646c760f45ab1ff83ef70d14",
+    "edition": 10,
+    "date": 1652895786055,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #11",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/11.png",
+    "dna": "3e1c9ee42ebe3eca24f11b2e742f2b17bab6e152",
+    "edition": 11,
+    "date": 1652895786225,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #12",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/12.png",
+    "dna": "d7ea0e03d6fa009fab1f6f75777594f1c60b5f05",
+    "edition": 12,
+    "date": 1652895786406,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #13",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/13.png",
+    "dna": "7d931792c7854933c5a738f0241d941f9ebd76c9",
+    "edition": 13,
+    "date": 1652895786586,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #14",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/14.png",
+    "dna": "9ce10516d3334d5ee522066b76a80ec11ce46166",
+    "edition": 14,
+    "date": 1652895786783,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #15",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/15.png",
+    "dna": "6b3e09e2dc5c8ac706d2bff9377715a502bc583f",
+    "edition": 15,
+    "date": 1652895786948,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Yellow"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #16",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/16.png",
+    "dna": "512b0588b00ecec630586305b43d77cb624815f8",
+    "edition": 16,
+    "date": 1652895787111,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #17",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/17.png",
+    "dna": "1f6e4ad7419320931137b32ee8cedf1b33e72172",
+    "edition": 17,
+    "date": 1652895787289,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #18",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/18.png",
+    "dna": "60f78cbb1826cfc030b94821d4ee1c5e6c475dd6",
+    "edition": 18,
+    "date": 1652895787461,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Green"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Green"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #19",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/19.png",
+    "dna": "533486aa8572df6144376e757516d37b29ee211c",
+    "edition": 19,
+    "date": 1652895787614,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Blue"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  },
+  {
+    "name": "GME monkey collection #20",
+    "description": "1st collection of apes on GME sh",
+    "image": "ipfs://QmYJVR1ScSUWvy8NjjpybFqNoABjEgEcNfJTAdV78Lhkm3/20.png",
+    "dna": "82248cda578fdda876c24e9d133cab3c764ba52b",
+    "edition": 20,
+    "date": 1652895787764,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gme_mountain"
+      },
+      {
+        "trait_type": "OriginalImage",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "MonkeyHairColor",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "BananaPeel",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "BananaColor",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "RocketBody",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "RocketWingsAndNose",
+        "value": "Purple"
+      }
+    ],
+    "compiler": "Shadowad Art Engine"
+  }
+]
